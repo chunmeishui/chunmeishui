@@ -1,6 +1,9 @@
 Hi there 👋
+
 My name is Chunmei shui and I'm a full stack developer! 👋
+
 🔭 I’m currently finished leaning at ... HTML/CSS,Javascript, Node.js,React,git/Github, Mysql,Docker, Jira, Figma, Storybook,Postman,Swagger in HackYourFuture cobenhargen.
+
 🌱 I’m currently learning ...ruby
 👯 I’m looking to collaborate on ... Javascript, React.
 💬 Ask me about ... Anything
