@@ -9,7 +9,7 @@
 
 - 📫 How to reach me chunmeishui578659@gmail.com.
 
-- 📫 Also on Linkedin: https://www.linkedin.com/in/chunmei-shui-834357237/
+- 📫 Also on Linkedin: https://www.linkedin.com/in/chunmei-shui
 
 - 😄 Pronouns: She/Her
 
