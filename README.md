@@ -11,6 +11,8 @@
 
 - 📫 Also on Linkedin: https://www.linkedin.com/in/chunmei-shui
 
+- 📫 Check Portfolio: https://chunmeishui-portfolio.netlify.app
+
 - 😄 Pronouns: She/Her
 
 - ⚡ Fun fact: I speak little dansk.
