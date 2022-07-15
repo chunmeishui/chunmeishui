@@ -1,6 +1,6 @@
 # Hi, I'm Chunmei Shui 👋🏾 👩🏾‍💻
 
-### I currently finished learning : HTML/CSS , Javascript , Node.js , React , git/Github , Mysql , Docker , Jira , Figma , Storybook , Postman and Swagger in HackYourFuture copenhagen.
+### I currently finished learning : HTML/CSS , Javascript , Node.js , React , Git/Github , Mysql , Docker , Jira , Figma , Storybook , Postman and Swagger in HackYourFuture copenhagen.
  
  - 🌱 I’m currently learning ruby
 - 👯 I’m looking to collaborate on Javascript, React.
