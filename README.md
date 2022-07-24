@@ -2,7 +2,7 @@
 
 ### I currently finished learning : HTML/CSS , Javascript , Node.js , React , Git/Github , Mysql , Docker , Jira , Figma , Storybook , Postman and Swagger in HackYourFuture copenhagen.
  
- - 🌱 I’m currently learning ruby
+ - 🌱 I’m currently doing personal small apps.
 - 👯 I’m looking to collaborate on Javascript, React.
 
 - 💬 Ask me about Anything.
